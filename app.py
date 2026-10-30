@@ -16,7 +16,7 @@ fig, ax = plt.subplots()
 
 ax.plot(x, y)
 
-ax.set_title("Función lineal")
+ax.set_title("Función lineal",color="pink)
 ax.set_xlabel("x")
 ax.set_ylabel("y")
 
